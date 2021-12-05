@@ -1,2 +1,4 @@
-# open_sw_2nd
-open_sw_2nd
+# 오픈소스 SW 2번째 과제 vimgolf
+
+첫번째 문제 
+G를 눌러서 맨 하단으로 이동 한후 e 
