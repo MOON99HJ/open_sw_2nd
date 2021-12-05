@@ -10,6 +10,7 @@
 > 5) end키를 이용하여 뒷부분으로 이동한다　　　　
 > 6) " 를 입력후 esc를 눌러준다 　
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/94624031/144742748-be110134-a823-46fa-af15-f4d23fe78414.gif)
 >### 두번째 문제
 > 1) %s를 이용한다
 > 2) 변경해야 하는 항목 sublime 과 emacs 를 항목에 추가하고
