@@ -18,6 +18,8 @@
 > 3) vim으로 변경하도록 입력한다
 > 4) 마무리로 g를 입력한후 엔터
 
+>![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/94624031/144745852-b5654034-6e1b-41a7-90e8-68dec0097f10.gif)
+>
 >### 세번째 문제
 > 1) j키를 이용해서 Version string 라인으로 이동한후 w키를 눌러 커서를 붙인다
 > 2) 그후 yw키를 이용하여 Version 단어를 복사한다
